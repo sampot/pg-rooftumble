@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "rev": "f32f8f3",
+  "files": [
+    "app.js",
+    "assets/blue.png",
+    "assets/red.png",
+    "functions.js",
+    "game.js",
+    "index.html",
+    "styles.css"
+  ]
+}
